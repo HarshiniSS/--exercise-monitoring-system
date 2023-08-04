@@ -25,3 +25,4 @@ pip install mediapipe
 **Start the Flask development server:**
 flask run or type python app.py in terminal
 Open a web browser and navigate to http://localhost:5000 or http://127.0.0.1:5000/
+![image](https://github.com/Smriti925/-exercise-monitoring-system/assets/77229239/6cb3ba81-9036-4254-a6b5-8827cca8c897)
