@@ -10,16 +10,22 @@ Flask
 
 **Getting Started**
 Clone this repository to your local machine:
+
 bash
+
 git clone https://github.com/yourusername/-exercise-monitoring-system.git
 
 **Navigate to the project directory:**
+
 bash
+
 cd exercise-monitoring-system-main
 
 **Install the required Python libraries:**
 pip install Flask
+
 pip install opencv-python
+
 pip install mediapipe
 
 **Start the Flask development server:**
